@@ -1,2 +1,2 @@
 # Resrouter
-Simples sistema para trocar de ip
+Simples sistema para troca de ip, feito em PHP
