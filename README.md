@@ -1,5 +1,5 @@
 # Resrouter
-Simples sistema para troca de ip, feito em PHP
+Simples sistema para troca de ip instantaneamente, feito em PHP
 
 # Roteadores compatíveis//
 
